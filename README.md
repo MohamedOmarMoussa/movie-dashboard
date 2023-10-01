@@ -6,28 +6,28 @@ This is a Vue 3 project template for creating a movie dashboard application. It 
 
 The header of our movie dashboard includes key navigation links and branding elements.
 
-![Header](/screens/screen1.png)
+![Header](/public/screens/screen1.png)
 *Caption: The header with navigation links and branding elements.*
 
 ### Homepage
 
 Our homepage welcomes users with an eye-catching movie background and provides a glimpse of trending movies.
 
-![Homepage](/screens/screen2.png)
+![Homepage](/public/screens/screen2.png)
 *Caption: The homepage featuring a movie background and trending movies.*
 
 ### Listing
 
 In the "Listing" section, users can explore movies by various categories such as Action, Animation, Adventure, Comedy, and Documentary. They can easily switch between categories using the provided tabs.
 
-![Listing](/screens/screen3.png)
+![Listing](/public/screens/screen3.png)
 *Caption: The listing section with category tabs and movie list.*
 
 ### Favorites
 
 In the "Favorites" section, users can curate their list of favorite movies. They can easily add or remove movies from their favorites, ensuring they never miss a beloved film.
 
-![Favorites](/screens/screen4.png)
+![Favorites](/public/screens/screen4.png)
 *Caption: The favorites section with a list of user-curated favorite movies.*
 
 ## Table of Contents
