@@ -14,7 +14,7 @@ export default defineComponent({
   setup() {
     const movies = ref<Movie[]>([]);
     const backgroundImage =
-      "https://image.tmdb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg"; 
+      "https://image.tmdb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg"; // Dune
 
       getPopularMovies().then((response) => {
         movies.value = response.data.results.slice(0, 4);
